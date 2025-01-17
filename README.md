@@ -70,7 +70,7 @@ Fase 2: Essa fase possui uma dimensão de 30x30 e possui os seguintes elementos:
 Fase 3: Essa fase possui uma dimensão de 60x60 e possui os seguintes elementos: todos da Fase 2, teletransporte e monstro nível 2.
 
 # Instruções de Uso
-Cone este repositório em sua máquina local ou vá em code e faça o Download Zip.
+Clone este repositório em sua máquina local ou vá em code e faça o Download Zip.
 
 git clone https://github.com/seu-usuario/dungeon-space.git 
 
